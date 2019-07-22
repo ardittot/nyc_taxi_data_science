@@ -2,3 +2,5 @@
 Workspace of data science exploration and analysis toward public dataset NYC Taxi data
 
 Detail description of dataset as well as the link for dataset download is here: https://lab-work.github.io/data/
+
+Slides presentation here: https://docs.google.com/presentation/d/1Rl-WYR4rLAT1lGqNRtaPw8M6lOrWYCTVnEVHtuckl64/edit?usp=sharing
